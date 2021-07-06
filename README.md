@@ -2,7 +2,7 @@
 Retro VHS effects combined with 12 little shaders
 
 
-![screenshot](https://user-images.githubusercontent.com/21966381/124252646-204b0f00-db62-11eb-9496-d9e0005aeb0c.png)
+![ss](https://user-images.githubusercontent.com/21966381/124581277-ea709800-de8b-11eb-8d51-bfaaa0a73552.png)
 
 ### TouchDesigner
 version : 2021.12380
